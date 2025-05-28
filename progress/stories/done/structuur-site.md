@@ -10,5 +10,5 @@ Routing implementatie op de site, duidelijke url's
 
 ### Acceptatiecriteria
 
-- [ ] Routing voor de verschillende pagina's
-- [ ] Basis structuur en navigatie.
+- [*] Routing voor de verschillende pagina's
+- [*] Basis structuur en navigatie.

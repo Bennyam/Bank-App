@@ -10,6 +10,6 @@ De gebruiker komt op deze pagina en kan van hieruit navigeren naar de gewilde pa
 
 ### Acceptatiecriteria
 
-- [ ] Header met logo en navigatie.
-- [ ] Hero sectie met CTA ( Knop om rechtstreek naar je login te gaan. )
-- [ ] Footer met copyrights.
+- [*] Header met logo en navigatie.
+- [*] Hero sectie met CTA ( Knop om rechtstreek naar je login te gaan. )
+- [*] Footer met copyrights.
