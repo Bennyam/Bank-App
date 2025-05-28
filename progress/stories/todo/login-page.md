@@ -10,8 +10,8 @@ De gbruiker log in op zijn account via het login formulier.
 
 ### Acceptatiecriteria
 
-- [ ] Layout van het formulier bepalen
-- [ ] Aanmaken en stylen van formulier components
+- [*] Layout van het formulier bepalen
+- [*] Aanmaken en stylen van formulier components
 - [ ] Login validatie implementeren
 - [ ] Fout bij onjuiste login gegevens.
 - [ ] Acceptatie bij juiste login gegevens.

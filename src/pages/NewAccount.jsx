@@ -1,5 +1,11 @@
+import CreateAccountForm from "../features/user/CreateAccountForm";
+
 function NewAccount() {
-  return <div>NEW ACCOUNT</div>;
+  return (
+    <section>
+      <CreateAccountForm />
+    </section>
+  );
 }
 
 export default NewAccount;

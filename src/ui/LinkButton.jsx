@@ -6,6 +6,8 @@ function LinkButton({ to, children, type }) {
     link: "text-base text-stone-100 uppercase transition-all duration-200 hover:text-green-400",
   };
 
+  if (!to) return <button className={styles[type]}>{children}</button>;
+
   return (
     <Link to={to} className={styles[type]}>
       {children}

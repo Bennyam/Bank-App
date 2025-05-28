@@ -11,8 +11,8 @@ De account word gemaakt met een unieke ID.
 
 ### Acceptatiecriteria
 
-- [ ] Layout van formulier bepalen.
-- [ ] components voor formulier maken en stylen.
+- [*] Layout van formulier bepalen.
+- [*] components voor formulier maken en stylen.
 - [ ] Check of gebruikersnaam al bestaat.
 - [ ] Account object aanmaken en naar state schrijven.
 - [ ] Gemaakte accounts bewaren in local storage ( Optioneel: Later omzetten naar database... ).

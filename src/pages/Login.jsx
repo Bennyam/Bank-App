@@ -1,5 +1,13 @@
+import { Form } from "react-router-dom";
+import LinkButton from "../ui/LinkButton";
+import LoginForm from "../features/user/LoginForm";
+
 function Login() {
-  return <div>LOGIN</div>;
+  return (
+    <section>
+      <LoginForm />
+    </section>
+  );
 }
 
 export default Login;
