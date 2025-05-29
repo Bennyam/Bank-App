@@ -12,7 +12,7 @@ De gbruiker log in op zijn account via het login formulier.
 
 - [*] Layout van het formulier bepalen
 - [*] Aanmaken en stylen van formulier components
-- [ ] Login validatie implementeren
-- [ ] Fout bij onjuiste login gegevens.
-- [ ] Acceptatie bij juiste login gegevens.
-- [ ] Routering naar account
+- [*] Login validatie implementeren
+- [*] Fout bij onjuiste login gegevens.
+- [*] Acceptatie bij juiste login gegevens.
+- [*] Routering naar account
