@@ -13,6 +13,7 @@ De account word gemaakt met een unieke ID.
 
 - [*] Layout van formulier bepalen.
 - [*] components voor formulier maken en stylen.
-- [ ] Check of gebruikersnaam al bestaat.
-- [ ] Account object aanmaken en naar state schrijven.
-- [ ] Gemaakte accounts bewaren in local storage ( Optioneel: Later omzetten naar database... ).
+- [*] Check of gebruikersnaam al bestaat.
+- [*] Check of wachtwoor bevestiging overeen komt met wachtwoord.
+- [*] Account object aanmaken en naar state schrijven.
+- [*] Gemaakte accounts bewaren in local storage ( Optioneel: Later omzetten naar database... ).
