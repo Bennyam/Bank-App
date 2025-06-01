@@ -10,6 +10,6 @@ De totale inkomsten en uitgaven worden berekend aan de hand van de transacties e
 
 ### Acceptatiecriteria
 
-- [ ] Totale inkomsten en uitgaven berekenen aan de hand van de transacties
-- [ ] Inkomsten en uitgaven weergeven in overzicht ( Samen met: saldo en interesten)
-- [ ] Styling: inkomsten groen, uitgaven rood.
+- [*] Totale inkomsten en uitgaven berekenen aan de hand van de transacties
+- [*] Inkomsten en uitgaven weergeven in overzicht ( Samen met: saldo en interesten)
+- [*] Styling: inkomsten groen, uitgaven rood.

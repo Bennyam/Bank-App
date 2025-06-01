@@ -9,6 +9,7 @@ import { action as loginAction } from "./features/user/LoginForm";
 import AccountSucces from "./features/user/AccountSucces";
 import SiteError from "./ui/SiteError";
 import AppError from "./ui/AppError";
+import About from "./pages/About";
 
 const router = createBrowserRouter([
   {
@@ -17,6 +18,10 @@ const router = createBrowserRouter([
       {
         path: "/",
         element: <Home />,
+      },
+      {
+        path: "/about",
+        element: <About />,
       },
       {
         path: "/login",

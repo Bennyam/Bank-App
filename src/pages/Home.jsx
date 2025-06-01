@@ -2,7 +2,7 @@ import LinkButton from "../ui/LinkButton";
 
 function Home() {
   return (
-    <section className="flex h-[85%] flex-col items-center justify-center gap-6 text-center">
+    <section className="mx-auto flex h-[85%] w-[clamp(70rem,80%,80rem)] flex-col items-center justify-center gap-6 text-center">
       <h1 className="text-5xl font-semibold text-stone-100">
         Start met Homebank.
         <br /> Gratis thuisbankieren voor iedereen.

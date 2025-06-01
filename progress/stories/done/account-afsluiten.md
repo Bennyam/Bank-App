@@ -10,7 +10,7 @@ De gebruiker kan zijn account afsluiten na bevestiging van gebruikersnaam en wac
 
 ### Acceptatiecriteria
 
-- [ ] Account close component aanmaken
-- [ ] Check of gebruikersnaam en wachtwoord
-- [ ] Bij fout Foutmelding weergeven
-- [ ] Bij succesvol account verwijderen en terug naar welkom pgina verwijzen.
+- [*] Account close component aanmaken
+- [*] Check of gebruikersnaam en wachtwoord
+- [*] Bij fout Foutmelding weergeven
+- [*] Bij succesvol account verwijderen en terug naar welkom pgina verwijzen.

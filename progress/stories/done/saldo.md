@@ -10,5 +10,5 @@ Het saldo word bereken op basis van de transacties en weergegeven in het overzic
 
 ### Acceptatiecriteria
 
-- [ ] Saldo berekenen op basis van de transacties
-- [ ] Saldo weergeven in overzicht ( Samen met total in, total out en total interest)
+- [*] Saldo berekenen op basis van de transacties
+- [*] Saldo weergeven in overzicht ( Samen met total in, total out en total interest)

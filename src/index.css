@@ -4,3 +4,12 @@
   background-image:
     linear-gradient(rgba(36, 42, 46, 0.8), rgba(36, 42, 46, 0.85)), url(/bg.jpg);
 }
+
+@utility no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}

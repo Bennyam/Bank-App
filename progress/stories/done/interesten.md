@@ -10,6 +10,6 @@ De interesten worden berekend op de inkomsten, bij elke inkomst word een interes
 
 ### Aceptatiecriteria
 
-- [ ] Berekening van de interesten bepalen
-- [ ] Totaal interesten berekenen
-- [ ] Totaal interesten weergeven in overzicht ( Sament met: saldo, total in, total out)
+- [*] Berekening van de interesten bepalen
+- [*] Totaal interesten berekenen
+- [*] Totaal interesten weergeven in overzicht ( Sament met: saldo, total in, total out)

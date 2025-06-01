@@ -112,7 +112,13 @@ export async function action({ request }) {
     name: data.name,
     email: data.email.toLowerCase(),
     password: data.password,
-    movements: [{ ammount: 1000, date: new Date().toISOString() }],
+    movements: [
+      {
+        ammount: 1000,
+        date: new Date().toISOString(),
+        description: "Startpremie",
+      },
+    ],
   };
 
   store.dispatch(addAccount(account));

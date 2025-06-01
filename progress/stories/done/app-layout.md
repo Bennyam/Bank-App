@@ -12,12 +12,12 @@ lening vragen en account afsluiten worden hier weergegeven.
 
 ### Acceptatiecriteria
 
-- [ ] Layout bepalen
-- [ ] Components voor de layout aanmaken
-- [ ] Transactie overzicht
-- [ ] Saldo, total in, total uit, interesten ( Deze worden weergegeven in een balk )
-- [ ] Overschrijven naar andere gebruiker
-- [ ] Lening aanvragen
-- [ ] Account afsluiten
-- [ ] Logout knop
-- [ ] ( Optioneel: logout timer)
+- [*] Layout bepalen
+- [*] Components voor de layout aanmaken
+- [*] Transactie overzicht
+- [*] Saldo, total in, total uit, interesten ( Deze worden weergegeven in een balk )
+- [*] Overschrijven naar andere gebruiker
+- [*] Lening aanvragen
+- [*] Account afsluiten
+- [*] Logout knop
+- [*] ( Optioneel: logout timer)

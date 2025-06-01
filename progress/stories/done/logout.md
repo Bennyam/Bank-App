@@ -10,7 +10,6 @@ De gebruiker logd uit en word herleid naar de welkom pagina.
 
 ### Acceptatiecriteria
 
-- [ ] Logout formulier aanmaken
-- [ ] Gebruiker afmelden
-- [ ] Gebruiker herleiden naar welkom / intro pagina
-- [ ] Korte boodschap ( Tot ziens )
+- [*] Logout formulier aanmaken
+- [*] Gebruiker afmelden
+- [*] Gebruiker herleiden naar welkom / intro pagina
